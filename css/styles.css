@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+    text-align: center;
+    background-image: url(/img/4ZDLWTRD6RPZTPKCO2QGZJZP5U.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(115, 195, 36);
+    color: aliceblue;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgb(235, 5, 5);
+    transition: all 0.3 ease;
+}
+
+
+button:hover {
+    background-color: blue;
+}
+
+
+.container {
+    background-color: lightskyblue
+}
